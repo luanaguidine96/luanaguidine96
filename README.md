@@ -75,7 +75,6 @@ Ensino médio integral em Desenvolvimento de Sistemas, com foco em Ciência da C
 <img src="https://github-readme-stats.shion.dev/api?username=luanaguidine96&hide_border=true&include_all_commits=false&count_private=false&bg_color=FFFFFF&title_color=D63384&text_color=444444&icon_color=D63384&border_radius=10" width="49%" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=luanaguidine96&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=FFFFFF&title_color=D63384&text_color=444444&border_radius=10" width="34%" />
 
-<img src="https://streak-stats.demolab.com/?user=luanaguidine96&hide_border=true&background=FFFFFF&ring=D63384&fire=D63384&currStreakLabel=D63384&sideLabels=444444&currStreakNum=444444&sideNums=444444&dates=888888&border_radius=10" width="60%" />
 
 </div>
 
