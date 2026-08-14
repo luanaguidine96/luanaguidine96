@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/8b/78/e8/8b78e8b4b442eb526ad95ebf772a85c5.jpg" width="100%" alt="banner"/>
-</div>
+
 
 <br>
 
@@ -81,16 +79,5 @@ Ensino médio integral em Desenvolvimento de Sistemas, com foco em Ciência da C
 
 </div>
 
-## Troféus
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=luanaguidine96&no-frame=true&no-bg=true&margin-w=4&title_color=D63384&icon_color=D63384&text_color=444444&column=7" />
-</div>
-
-<br>
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=luanaguidine96&label=Visualizações&color=d63384&style=flat-square)](https://visitcount.itsvg.in)
 
 </div>
