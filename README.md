@@ -1,42 +1,109 @@
-# 💫 About Me:
-Estudante de Desenvolvimento de sistemas 2/3<br>Web developer<br>Game developer<br>
+<div align="center">
 
+<img src="https://i.pinimg.com/1200x/8b/78/e8/8b78e8b4b442eb526ad95ebf772a85c5.jpg" width="100%" alt="banner"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luz_developer) 
+<img src="https://i.pinimg.com/736x/54/b4/8e/54b48ecbf2f076a8576997a6d270ff21.jpg" width="150" style="border-radius:50%;" alt="icon"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=luanaguidine96&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=luanaguidine96&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=luanaguidine96&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# ⋆｡°✩ Oi, eu sou a Luana! ✩°｡⋆
+
+</div>
+
+## 💫 Sobre mim:
+
+🎓 Estudante de Desenvolvimento de Sistemas (2/3), fazendo ensino médio integral com foco total em **Ciência da Computação** 💻<br>
+👩‍💻 Comecei a programar aos 10 anos e nunca mais parei!<br>
+🌸 Web Developer &nbsp;|&nbsp; 🎮 Game Developer<br>
+📱 Já fiz curso de Social Media<br>
+🛍️ Já vendi **8 sites** feitos com HTML e CSS<br>
+🤖 Também curto robótica com LEGO Spike<br>
+
+<div align="center">
+
+*sempre aprendendo algo novo, um pixel de cada vez ✨*
+
+</div>
+
+## 🌐 Redes Sociais:
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luz_developer)
+
+</div>
+
+## 🎀 Tech Stack:
+
+<div align="center">
+
+![C](https://img.shields.io/badge/c-ff69b4.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-ffb6c1.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-ff69b4.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-ffb6c1.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Scratch](https://img.shields.io/badge/scratch-ff69b4.svg?style=for-the-badge&logo=scratch&logoColor=white)
+![GameMaker](https://img.shields.io/badge/game%20maker-ffb6c1.svg?style=for-the-badge&logo=gamemaker&logoColor=white)
+![Construct3](https://img.shields.io/badge/construct%203-ff69b4.svg?style=for-the-badge&logoColor=white)
+![Portugol](https://img.shields.io/badge/portugol-ffb6c1.svg?style=for-the-badge&logoColor=white)
+![VisuAlg](https://img.shields.io/badge/visualg-ff69b4.svg?style=for-the-badge&logoColor=white)
+![LEGO Spike](https://img.shields.io/badge/lego%20spike-ffb6c1.svg?style=for-the-badge&logo=lego&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/firebase-ff69b4.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-ffb6c1?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-ff69b4.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-ffb6c1.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-ff69b4.svg?style=for-the-badge&logo=render&logoColor=white)
+
+![Canva](https://img.shields.io/badge/Canva-ffb6c1.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-ff69b4.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-ffb6c1?style=for-the-badge&logo=gimp&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-ff69b4.svg?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-ffb6c1.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Itch.io](https://img.shields.io/badge/Itch-ff69b4.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=luanaguidine96&hide_border=true&include_all_commits=false&count_private=false&bg_color=FFF0F5&title_color=FF1493&text_color=8B5A6B&icon_color=FF69B4&border_radius=15" />
+
+<img src="https://streak-stats.demolab.com/?user=luanaguidine96&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF1493&currStreakLabel=FF1493&sideLabels=8B5A6B&currStreakNum=8B5A6B&sideNums=8B5A6B&dates=C48A9E&border_radius=15" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=luanaguidine96&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=FFF0F5&title_color=FF1493&text_color=8B5A6B&border_radius=15" />
+
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=luanaguidine96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=luanaguidine96&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-profile-trophy.vercel.app/?username=luanaguidine96&no-frame=true&no-bg=true&margin-w=4&title_color=FF1493&icon_color=FF69B4&text_color=8B5A6B" />
+
+</div>
+
+## ✍️ Frase aleatória dev
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine_dawn" />
+
+</div>
+
+## 🔝 Repositório com mais contribuições
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=luanaguidine96&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=luanaguidine96&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
 
-<!--
-**luanaguidine96/luanaguidine96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://komarev.com/ghpvc/?username=luanaguidine96&icon=0&color=ff69b4)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
+*obrigada por passar por aqui ⋆｡°✩*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
