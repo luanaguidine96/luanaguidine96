@@ -136,7 +136,8 @@ Projetos desenvolvidos utilizando Unity, GameMaker, Construct 3 e Scratch.
 Projetos envolvendo programação e robótica com LEGO Spike e Arduino.
 
 <br>
-## GitHub Stats <div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=luanaguidine96&hide_border=true&include_all_commits=false&count_private=false&bg_color=FFFFFF&title_color=D63384&text_color=444444&icon_color=D63384&border_radius=10" width="49%" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=luanaguidine96&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=FFFFFF&title_color=D63384&text_color=444444&border_radius=10" width="34%" /> </div>
+## GitHub Stats 
+<div align="center"> <img src="https://github-readme-stats.shion.dev/api?username=luanaguidine96&hide_border=true&include_all_commits=false&count_private=false&bg_color=FFFFFF&title_color=D63384&text_color=444444&icon_color=D63384&border_radius=10" width="49%" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=luanaguidine96&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=FFFFFF&title_color=D63384&text_color=444444&border_radius=10" width="34%" /> </div>
 
 ## 📚 Atualmente estudando
 
